@@ -134,3 +134,4 @@ dmypy.json
 **/weights/**
 **/*.png
 **/model_plots/**
+**/logs
